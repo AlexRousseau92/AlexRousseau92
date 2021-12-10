@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm Alexandre Rousseau a French Full-Stack Js Developer Junior
+## I'm [Alexandre Rousseau](https://alexandre-rousseau.fr/) a French Full-Stack Js Developer Junior
 
-**languages and tools:** 
+**Languages and tools:** 
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
