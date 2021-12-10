@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm Alexandre Rousseau a French <code><img height="30" src"https://www.freepng.fr/png-ij8bd7/download.html"></code> full-stack JS developer junior
+## I'm Alexandre Rousseau a French Full-Stack Js Developer Junior
 
 **languages and tools:** 
 
